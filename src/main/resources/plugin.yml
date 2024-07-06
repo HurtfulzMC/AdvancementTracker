@@ -1,0 +1,8 @@
+name: AdvancementTracker
+version: '${project.version}'
+main: me.hurtful.advancementtracker.AdvancementTracker
+api-version: '1.21'
+commands:
+  advancements:
+    description: Shows your advancement progress
+    usage: /<command>
